@@ -1,6 +1,6 @@
 # Sales Profit and Loss Analysis with Next-Month Prediction
 
-A simple, beginner-friendly web application built with **Python**, **Django**, **Pandas**, and **Scikit-learn (Linear Regression)**. It allows users to upload a monthly or daily sales dataset (in CSV or Excel format) to instantly compute financial metrics (Total Sales, Total Profit, Total Loss, Net Profit/Loss) and forecast next-month figures with an interactive **Chart.js** visualization—all on a single, easy-to-use webpage without requiring any login credentials.
+A simple, beginner-friendly web application built with **Python**, **Django**, **Pandas**, and **Scikit-learn (Linear Regression)**. It allows users to upload a monthly or daily sales dataset (in CSV or Excel format) to instantly compute financial metrics (Total Sales, Total Profit, Total Loss, Net Profit/Loss) and forecast next-month figures easy-to-use webpage without requiring any login credentials.
 
 ---
 
