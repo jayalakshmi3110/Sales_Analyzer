@@ -1,0 +1,13 @@
+Month,Product,Quantity,Sales,Cost
+Month 1,Laptops,12,10000,6500
+Month 1,Smartphones,25,2500,1700
+Month 2,Laptops,14,11500,7400
+Month 2,Smartphones,27,2700,1700
+Month 3,Laptops,10,8800,10200
+Month 3,Smartphones,30,3000,3000
+Month 4,Laptops,16,13200,8300
+Month 4,Smartphones,33,3300,2100
+Month 5,Laptops,19,15200,9400
+Month 5,Smartphones,38,3800,2400
+Month 6,Laptops,22,17900,10700
+Month 6,Smartphones,45,4500,2800

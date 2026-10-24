@@ -1,0 +1,19 @@
+Month,Product,Quantity,Sales,Cost
+Month 1,Laptop,10,12000,8000
+Month 1,Smartphone,25,7500,5000
+Month 1,Headphones,40,2000,1200
+Month 2,Laptop,12,14400,9600
+Month 2,Smartphone,30,9000,6000
+Month 2,Headphones,50,2500,1500
+Month 3,Laptop,8,9600,10400
+Month 3,Smartphone,20,6000,4200
+Month 3,Headphones,35,1750,1100
+Month 4,Laptop,15,18000,12000
+Month 4,Smartphone,35,10500,7000
+Month 4,Headphones,60,3000,1800
+Month 5,Laptop,18,21600,14400
+Month 5,Smartphone,40,12000,8000
+Month 5,Headphones,70,3500,2100
+Month 6,Laptop,20,24000,16000
+Month 6,Smartphone,45,13500,9000
+Month 6,Headphones,80,4000,2400
